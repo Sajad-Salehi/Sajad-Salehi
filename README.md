@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Sajad. I'm a blockchain dev.
+### **<h1>Hi there 👋<br>My name is Sajad. I'm a blockchain dev.<h1><br><hr>**
 
 
 
