@@ -6,7 +6,6 @@
 and smart contract development.
 
 🌱 I’m currently learning dart & flutter.
-
-🔴 I’m a computer science student and Blockchain researcher.
+🔴 I’m a computer science student and Blockchain researcher also.
 
 📚 New technologies intrigue me, so I am constantly striving to learn them.
