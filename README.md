@@ -2,8 +2,8 @@
 
 
 <h6>
-🌱 I’m currently learning dart & flutter.
-💻 My favorite thing to do is backend and smart contract development.
-📚 New technologies intrigue me, so I am constantly striving to learn them.
+🌱 I’m currently learning dart & flutter.<br>
+💻 My favorite thing to do is backend and smart contract development.<br>
+📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 🔴 I’m a computer science student and Blockchain researcher also.<h5>
 <h6>
