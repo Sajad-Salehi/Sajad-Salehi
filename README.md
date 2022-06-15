@@ -1,6 +1,6 @@
 <h2>Hi there 👋
-My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i><hr>
-
+My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
+  <hr>
 
 <h6>
 <br>🌱 I’m currently learning dart & flutter.<br>
