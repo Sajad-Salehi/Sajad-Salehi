@@ -3,7 +3,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i><hr>
 
 
 <h6>
-🌱 I’m currently learning dart & flutter.<br>
+<br>🌱 I’m currently learning dart & flutter.<br>
 💻 My favorite thing to do is backend and smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 ⚡ Additionally, I’m a computer science student and Blockchain researcher.
@@ -15,7 +15,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i><hr>
 
 <!--START_SECTION:waka-->
 
-**I'm a Night 🦉** 
+<br>**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    9 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
@@ -26,7 +26,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i><hr>
 ```
 
   
-![](https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<br>![](https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajad-salehi&theme=radical&hide_border=false)<br>
 
 
@@ -36,4 +36,4 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i><hr>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajad-salehi)<br>
   
 
-<img src="https://imgur.com/rilHVxA.png">
+<br><br><img src="https://imgur.com/rilHVxA.png">
