@@ -4,7 +4,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 
 <h6>
 <br>🌱 I’m currently learning dart & flutter.<br>
-💻 My favorite thing to do is backend and smart contract development.<br>
+💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 ⚡ Additionally, I’m a computer science student and Blockchain researcher.
 <h6>
