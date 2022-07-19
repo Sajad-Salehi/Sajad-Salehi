@@ -2,8 +2,9 @@
 My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
   <hr>
 
+<img align="right" alt="GIF" height="190px" src="https://github.com/Sajad-Salehi/Sajad-Salehi/blob/main/jetpacktocat.png" />
 <h6>
-<br>🌱 I’m currently learning Dart & Flutter.<br>
+<br>🌱 I’m currently learning Rust.<br>
 💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 ⚡ Additionally, I’m a computer science student and Blockchain researcher.
@@ -19,9 +20,9 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 
 ```text
 🌞 Morning    9 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-🌆 Daytime    16 commits    ███░░░░░░░░░░░░░░░░░░░░░░   16.45% 
-🌃 Evening    21 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
-🌙 Night      98 commits    ████████████░░░░░░░░░░░░░   58.44%
+🌆 Daytime    16 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
+🌃 Evening    41 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
+🌙 Night      148 commits   ████████████░░░░░░░░░░░░░   60.44%
 
 ```
 
