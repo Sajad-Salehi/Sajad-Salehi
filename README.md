@@ -27,9 +27,8 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 
 ```
 
-  
-<img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-<img width="410px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sajad-salehi&theme=radical&hide_border=false"/>
+![](https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajad-salehi&theme=radical&hide_border=false)
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__Soren)
@@ -38,6 +37,5 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajad-salehi-528a24231)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajad-salehi)<br>
 
-  
 
 <br><br><img src="https://imgur.com/rilHVxA.png">
