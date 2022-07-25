@@ -28,8 +28,10 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 ```
 
   
-<br>![](https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajad-salehi&theme=radical&hide_border=false)<br>
+<table>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=sajad-salehi&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sajad-salehi&theme=radical&hide_border=false"/>
+</table>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__Soren)
