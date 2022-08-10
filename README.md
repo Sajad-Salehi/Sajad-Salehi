@@ -8,10 +8,10 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 ⚡ Additionally, I’m a computer science student and Blockchain researcher.<br>
-✍️ I often write articles in <a href='https://medium.com/@sajadsolidity'>Medium<a/>.
+✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>.
 <h6>
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
   ---
 
 
@@ -21,9 +21,9 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 
 ```text
 🌞 Morning    9 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-🌆 Daytime    15 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌃 Evening    41 commits    ██████░░░░░░░░░░░░░░░░░░░   17.03% 
-🌙 Night      175 commits   ████████████████░░░░░░░░░   74.44%
+🌆 Daytime    15 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+🌃 Evening    54 commits    ██████░░░░░░░░░░░░░░░░░░░   17.03% 
+🌙 Night      215 commits   ████████████████░░░░░░░░░   74.44%
 
 ```
 
