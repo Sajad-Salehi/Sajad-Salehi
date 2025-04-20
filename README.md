@@ -8,7 +8,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
 ⚡ Additionally, I’m a computer science student and Blockchain researcher.<br>
-✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>. See my Resume here: <a href="https://drive.google.com/file/d/1uhYunyfC4_ZEkdJYg8LBsVCCMK75impY/view?usp=sharing">Link<a/>
+✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>. See my Resume here: <a href="[https://drive.google.com/file/d/1uhYunyfC4_ZEkdJYg8LBsVCCMK75impY/view?usp=sharing](https://docs.google.com/document/d/1TbWFxn--3vobdwUnSyFUhwSw79H62pX8KS52ea9C1Nw/edit?usp=drive_link)">Link<a/>
 <h6>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
