@@ -4,11 +4,10 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 
 <img align="right" alt="GIF" height="190px" src="https://github.com/Sajad-Salehi/Sajad-Salehi/blob/main/jetpacktocat.png" />
 <h6>
-<br>🌱 I’m currently learning Rust.<br>
 💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
-⚡ Additionally, I’m a computer science student and Blockchain researcher.<br>
 ✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>. See my Resume here: <a href="https://drive.google.com/file/d/10UDW-BqQN1AyBkKmSywH9UYel9lbi50g/view?usp=sharing">Link<a/>
+🤝 Got a project in mind or want to collaborate? You can hire me on <a href="https://www.fiverr.com/sajadsalehi">Fiverr</a>.
 <h6>
 <h6>
 
