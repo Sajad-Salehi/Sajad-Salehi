@@ -6,7 +6,7 @@ My name is <i>Sajad<i>. I'm a <i>Blockchain Dev.<i>
 <h6>
 💻 My favorite thing to do is smart contract development.<br>
 📚 New technologies intrigue me, so I am constantly striving to learn them.<br>
-✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>. See my Resume here: <a href="https://drive.google.com/file/d/1nsFFzWb7wEo7Hoq69XdlgaLLv8lzDbyE/view?usp=drive_link">Link<a/><br>
+✍️ I often write articles on <a href='https://medium.com/@sajadsolidity'>Medium<a/>. See my Resume here: <a href="https://drive.google.com/file/d/1JWDcZqMsplZtPPietwiu2gzIRPJpuOum/view?usp=drive_link">Link<a/><br>
 🚀 Got a project in mind or want to collaborate? You can hire me on <a href="https://www.fiverr.com/sajadsalehi">Fiverr</a>.
 <h6>
 <h6>
